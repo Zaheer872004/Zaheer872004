@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaheer872004&label=Profile%20views&color=0e75b6&style=flat" alt="Zaheer872004" /> </p>
 
 ### 👨‍💻 About Me:
+- 🎓 Currently a 3rd-year student at **Vidyavardhini's College of Engineering and Technology**
 - 🔭 I’m currently working on **[ProductManagement](https://github.com/Zaheer872004/ProductManagement)**
 - 🌱 I’m currently learning **Spring Boot, React.js, DevOps**
 - 💬 Ask me about **DSA, JavaScript, React, Java, NodeJS Backend**
