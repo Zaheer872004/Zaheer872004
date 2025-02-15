@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Spring Boot, React.js, DevOps**
 - 💬 Ask me about **DSA, JavaScript, React, Java, NodeJS Backend**
 - 📫 How to reach me: **zaheerkhan872004@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1cAVJ6MyDpsTyCc_eQFf8NaqcYfw62fs0/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xDcDrpQtWGbEOKUa6vyrM6G-DLNWwp8g/view?usp=drive_link)
 - ⚡ Fun fact: **I think I'm funny and love learning new things**
 
 ### 🌐 Connect with Me:
@@ -120,6 +120,6 @@
 ---
 
 ### 📄 Resume:
-You can view my resume here: [Resume](https://drive.google.com/file/d/1cAVJ6MyDpsTyCc_eQFf8NaqcYfw62fs0/view?usp=sharing)
+You can view my resume here: [Resume](https://drive.google.com/file/d/1xDcDrpQtWGbEOKUa6vyrM6G-DLNWwp8g/view?usp=drive_link)
 
 ---
