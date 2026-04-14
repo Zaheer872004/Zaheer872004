@@ -1,125 +1,106 @@
+<h1 align="center">Hey 👋, I'm Zaheer Khan</h1>
+<h3 align="center">🚀 Software Engineer | ⚙️ DevOps Enthusiast | 💻 Problem Solver</h3>
 
-<h1 align="center">Hi 👋, I'm Zaheer Khan</h1>
-<h3 align="center">A passionate Software Engineer and DevOps enthusiast from India.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Microservices+Developer;DevOps+Learner;DSA+Enthusiast&center=true&width=500&height=45">
+</p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zaheer872004&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaheer872004&label=Profile%20views&color=0e75b6&style=flat" alt="Zaheer872004" /> </p>
+---
 
-### 👨‍💻 About Me:
-- 🎓 Currently a final year student at **Vidyavardhini's College of Engineering and Technology**
-- 🔭 I’m currently working on **[ProductManagement](https://github.com/Zaheer872004/ProductManagement)**
-- 🌱 I’m currently learning **Spring Boot, React.js, DevOps**
-- 💬 Ask me about **DSA, JavaScript, React, Java, NodeJS Backend**
-- 📫 How to reach me: **zaheerkhan872004@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/17AcTN4e2XyCwXuWJpJvN7hzBTWJmZxo9/view?usp=sharing)
-- ⚡ Fun fact: **I think I'm funny and love learning new things**
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-### 🌐 Connect with Me:
+### 🧑‍💻 About Me:
+- 🎓 Final Year CSE (Data Science) Student  
+- 🔥 Passionate about **Backend + Scalable Systems**  
+- ⚡ Building **Microservices & Real-world Applications**  
+- 🌱 Currently exploring **Spring Boot, Kafka, Kubernetes**  
+- 💬 Love solving **DSA & System Design problems**  
+
+---
+
+### 💼 Internship Experience:
+
+**Backend Developer Intern — AMI Health** *(Sep 2025 – Jan 2026)*  
+- Built and maintained backend services using **NestJS, Prisma, MongoDB**  
+- Developed **REST APIs** and optimized database schemas  
+- Worked on **async operations & third-party API integrations**  
+- Contributed to a **production-grade healthcare platform**  
+
+---
+
+### 🌐 Connect With Me:
 <p align="left">
   <a href="https://linkedin.com/in/zaheerkhan872004" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaheerkhan872004" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://leetcode.com/zaheerkhan2004/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaheerkhan2004" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
   </a>
   <a href="https://github.com/Zaheer872004" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Zaheer872004" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
-### 🚀 My Projects:
-- **[ProductManagement](https://github.com/Zaheer872004/ProductManagement):** A robust backend solution for managing product data, including CRUD operations for product listings and inventory management. Designed with RESTful APIs and built using Node.js and Express, it ensures seamless data handling and integration for various frontend applications.
-- **[VidTweet](https://github.com/Zaheer872004/VidTweet):** A video-tweeting platform with email verification.
-- **[Food Store](https://github.com/Zaheer872004/Food_Store):** A food ordering platform with real-time restaurant listings.
-- **[MessageFeedback](https://github.com/Zaheer872004/MessageFeedback_Next_app):** A full-stack feedback system with custom authentication.
+---
 
-### 🛠️ Languages and Tools:
-#### Languages and Frameworks:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
+### 🚀 Featured Projects:
+
+ 
+
+🎥 **VidTweet**  
+→ Media platform with JWT auth, RBAC & Cloudinary integration  
+
+💸 **ExpenseEase**  
+→ Microservices-based system using Spring Boot + Kafka  
+
+📊 **Monitoring Dashboard**  
+→ Real-time system monitoring with Prometheus & Grafana  
+
+🔥 **ProductManagement**  
+→ Scalable backend system with REST APIs (Node.js, Express) 
+
+---
+
+### 🛠️ Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,spring,react,mongodb,mysql,redis,docker,kubernetes,aws,linux,git" />
 </p>
 
+---
 
-#### Databases and ORMs:
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoose" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
-  </a>
+### 📊 GitHub Analytics:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaheer872004&show_icons=true&theme=tokyonight" />
 </p>
 
-
-#### DevOps Tools:
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="archlinux" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaheer872004&theme=tokyonight" />
 </p>
 
-
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaheer872004&show_icons=true&locale=en&layout=compact" alt="Zaheer872004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zaheer872004&show_icons=true&locale=en" alt="Zaheer872004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zaheer872004&" alt="Zaheer872004" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaheer872004&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 📄 Resume:
-You can view my resume here: [Resume](https://drive.google.com/file/d/1xDcDrpQtWGbEOKUa6vyrM6G-DLNWwp8g/view?usp=drive_link)
+<p align="center">
+  <a href="https://drive.google.com/file/d/17AcTN4e2XyCwXuWJpJvN7hzBTWJmZxo9/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=googledrive" />
+  </a>
+</p>
 
 ---
+
+### ⚡ Fun Zone:
+```diff
++ I build backend systems ⚙️
++ I break bugs 🐞
++ I love clean architecture 🧠
++ I grind LeetCode 💪
